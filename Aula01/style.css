@@ -21,11 +21,13 @@ button{
     border-radius: 15px;
     border-color: rgba(255, 255, 255, 255);
 }
+
 .button_Jonas{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+    float: left;
+    width: 50%;
+    height: 200px;
+    background-color: #ccc;
+   
 }
 a {
     color: rgba(180, 180, 180, 1);
